@@ -1,0 +1,11 @@
+# Ignore all object files
+*.o
+
+# Ignore all executable files
+*.exe
+
+# Ignore all image source
+*.drawio
+
+# Ignore all example c source code
+*.example.c
