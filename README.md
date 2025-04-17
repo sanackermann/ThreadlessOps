@@ -10,7 +10,7 @@ However, ThreadlessOps is not limited to threadless execution alone. In practice
 ## 📖 Blog Post
 
 We discuss the motivation, implementation, and technical background in detail here:  
-🔗 [ThreadlessOps - Enhanced Shellcoding for Threadless Injections](https://www.avantguard.io/blog/threadless)
+🔗 [ThreadlessOps - Enhanced Shellcoding for Threadless Injections](https://avantguard.io/en/blog/threadless-ops)
 
 ## 🙏 Credits
 
